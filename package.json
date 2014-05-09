@@ -1,0 +1,12 @@
+{
+    "name": "DemoGame1",
+    "version": "0.0.0",
+    "description": "Try a demo app",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest",
+        "ejs": "latest"
+    },
+    "author": "Leman Kwok <leman@lmswork.com>"
+}
